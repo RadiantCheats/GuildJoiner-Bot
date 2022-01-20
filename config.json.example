@@ -1,0 +1,11 @@
+{
+  "ID": "",
+  "SECRET": "",
+  "TOKEN": "",
+  "PREFIX": "!",
+  "OWNER": "",
+  "REDIRECT": "",
+  "PORT": 3000,
+  "GUILD_ID": "",
+  "HOMEPAGE": ""
+}
