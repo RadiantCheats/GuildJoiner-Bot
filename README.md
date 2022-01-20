@@ -1,4 +1,5 @@
-# Bot setup guide
+# GuildJoiner-Bot
+A Discord bot used for authenticating and migrating users. 
 
 ## Creating the bot account
 
